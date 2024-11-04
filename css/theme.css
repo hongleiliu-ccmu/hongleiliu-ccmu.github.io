@@ -19,6 +19,9 @@ body {
 /* Customize the navbar links to be fill the entire space of the .navbar */
 
 .navbar .navbar-inner {
+	background-color: #e7e7e7; /* 更改背景颜色 */
+	border-radius: 0; /* 可选：移除圆角 */
+    	box-shadow: none; /* 可选：移除阴影 */
 	padding: 0
 }
 
