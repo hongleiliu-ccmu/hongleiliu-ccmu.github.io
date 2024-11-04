@@ -415,12 +415,12 @@ body>.navbar .brand:hover {
     text-align: center;
     text-shadow: 0 1px 3px rgba(0, 0, 0, .4), 0 0 30px rgba(0, 0, 0, .075);
     background: #34495E;
-    background: -moz-linear-gradient(45deg, #34495E 0%, #34495E 100%) !important; /* 修改这里的背景渐变颜色 */
+    background: -moz-linear-gradient(45deg, #34495E 0%, #34495E 100%) ; /* 修改这里的背景渐变颜色 */
     background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, #34495E), color-stop(100%, #34495E)) !important; /* 修改这里的背景渐变颜色 */
-    background: -webkit-linear-gradient(45deg, #34495E 0%, #34495E 100%) !important; /* 修改这里的背景渐变颜色 */
-    background: -o-linear-gradient(45deg, #34495E 0%, #34495E 100%) !important; /* 修改这里的背景渐变颜色 */
-    background: -ms-linear-gradient(45deg, #34495E 0%, #34495E 100%) !important; /* 修改这里的背景渐变颜色 */
-    background: linear-gradient(45deg, #34495E 0%, #34495E 100%) !important; /* 修改这里的背景渐变颜色 */
+    background: -webkit-linear-gradient(45deg, #34495E 0%, #34495E 100%) ; /* 修改这里的背景渐变颜色 */
+    background: -o-linear-gradient(45deg, #34495E 0%, #34495E 100%) ; /* 修改这里的背景渐变颜色 */
+    background: -ms-linear-gradient(45deg, #34495E 0%, #34495E 100%) ; /* 修改这里的背景渐变颜色 */
+    background: linear-gradient(45deg, #34495E 0%, #34495E 100%) ; /* 修改这里的背景渐变颜色 */
     -webkit-box-shadow: inset 0 3px 7px rgba(0, 0, 0, .2), inset 0 -3px 7px rgba(0, 0, 0, .2);
     -moz-box-shadow: inset 0 3px 7px rgba(0, 0, 0, .2), inset 0 -3px 7px rgba(0, 0, 0, .2);
     box-shadow: inset 0 3px 7px rgba(0, 0, 0, .2), inset 0 -3px 7px rgba(0, 0, 0, .2);
