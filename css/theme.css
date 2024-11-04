@@ -397,8 +397,7 @@ body>.navbar .brand:hover {
 	color: #fff;
 	text-align: center;
 	text-shadow: 0 1px 3px rgba(0, 0, 0, .4), 0 0 30px rgba(0, 0, 0, .075);
-	background: #ADD8E6; /* 修改这里的背景颜色 */
-	/*background: #0C60A3;*/
+	background: #0C60A3;
 	background: -moz-linear-gradient(45deg, #0C60A3 0%, #000000 100%);
 	background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, #0C60A3), color-stop(100%, #0C60A3));
 	background: -webkit-linear-gradient(45deg, #0C60A3 0%, #000000 100%);
@@ -408,7 +407,6 @@ body>.navbar .brand:hover {
 	-webkit-box-shadow: inset 0 3px 7px rgba(0, 0, 0, .2), inset 0 -3px 7px rgba(0, 0, 0, .2);
 	-moz-box-shadow: inset 0 3px 7px rgba(0, 0, 0, .2), inset 0 -3px 7px rgba(0, 0, 0, .2);
 	box-shadow: inset 0 3px 7px rgba(0, 0, 0, .2), inset 0 -3px 7px rgba(0, 0, 0, .2);
-	font-size: 20px; /* 设置字体大小 */
 } */
 .jumbotron {
     position: relative;
@@ -416,17 +414,16 @@ body>.navbar .brand:hover {
     color: #fff;
     text-align: center;
     text-shadow: 0 1px 3px rgba(0, 0, 0, .4), 0 0 30px rgba(0, 0, 0, .075);
-    background: #2C3E50; /* 修改这里的背景颜色 */
-    background: -moz-linear-gradient(45deg, #2C3E50 0%, #2C3E50 100%); /* 修改这里的背景渐变颜色 */
-    background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, #2C3E50), color-stop(100%, #2C3E50)); /* 修改这里的背景渐变颜色 */
-    background: -webkit-linear-gradient(45deg, #2C3E50 0%, #2C3E50 100%); /* 修改这里的背景渐变颜色 */
-    background: -o-linear-gradient(45deg, #2C3E50 0%, #2C3E50 100%); /* 修改这里的背景渐变颜色 */
-    background: -ms-linear-gradient(45deg, #2C3E50 0%, #2C3E50 100%); /* 修改这里的背景渐变颜色 */
-    background: linear-gradient(45deg, #2C3E50 0%, #2C3E50 100%); /* 修改这里的背景渐变颜色 */
+    background: -moz-linear-gradient(45deg, #34495E 0%, #34495E 100%); /* 修改这里的背景渐变颜色 */
+    background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, #34495E), color-stop(100%, #34495E)); /* 修改这里的背景渐变颜色 */
+    background: -webkit-linear-gradient(45deg, #34495E 0%, #34495E 100%); /* 修改这里的背景渐变颜色 */
+    background: -o-linear-gradient(45deg, #34495E 0%, #34495E 100%); /* 修改这里的背景渐变颜色 */
+    background: -ms-linear-gradient(45deg, #34495E 0%, #34495E 100%); /* 修改这里的背景渐变颜色 */
+    background: linear-gradient(45deg, #34495E 0%, #34495E 100%); /* 修改这里的背景渐变颜色 */
     -webkit-box-shadow: inset 0 3px 7px rgba(0, 0, 0, .2), inset 0 -3px 7px rgba(0, 0, 0, .2);
     -moz-box-shadow: inset 0 3px 7px rgba(0, 0, 0, .2), inset 0 -3px 7px rgba(0, 0, 0, .2);
     box-shadow: inset 0 3px 7px rgba(0, 0, 0, .2), inset 0 -3px 7px rgba(0, 0, 0, .2);
-    font-size: 24px; /* 设置字体大小 */
+    font-size: 18px; /* 设置字体大小 */
 }
 
 .jumbotron:after {
