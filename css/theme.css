@@ -19,9 +19,6 @@ body {
 /* Customize the navbar links to be fill the entire space of the .navbar */
 
 .navbar .navbar-inner {
-	background-color: #e7e7e7; /* 更改背景颜色 */
-	border-radius: 0; /* 可选：移除圆角 */
-    	box-shadow: none; /* 可选：移除阴影 */
 	padding: 0
 }
 
@@ -410,6 +407,7 @@ body>.navbar .brand:hover {
 	-webkit-box-shadow: inset 0 3px 7px rgba(0, 0, 0, .2), inset 0 -3px 7px rgba(0, 0, 0, .2);
 	-moz-box-shadow: inset 0 3px 7px rgba(0, 0, 0, .2), inset 0 -3px 7px rgba(0, 0, 0, .2);
 	box-shadow: inset 0 3px 7px rgba(0, 0, 0, .2), inset 0 -3px 7px rgba(0, 0, 0, .2);
+	font-size: 24px; /* 设置字体大小 */
 }
 
 .jumbotron:after {
