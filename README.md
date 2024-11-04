@@ -1,5 +1,4 @@
-[Homepage](https://zhanglhbioinfor.github.io/) of Dr. Lihua Zhang at Wuhan University
+[[Homepage]https://hongleiliu-ccmu.github.io/](https://hongleiliu-ccmu.github.io/) of Dr. Honglei Liu at Capital Medical University
 
-We are seeking self-motivated students who have strong interest in bioinformatics and computational biology. 
-Applicants who have experience in machine learning, deep learning, statistics and programming proficiency in Python and/or R will be given priority.
+Research centers on artificial intelligence algorithms for biomedical big data, AI models for temporal and textual data, and large language models for medical text.
 
